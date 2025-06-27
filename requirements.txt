@@ -1,10 +1,5 @@
 sqlalchemy
 wget
-yins-music
-lottie
-ptable
-tracemoepy
-zipfile38
 attrify
 fipper
 pyaes
